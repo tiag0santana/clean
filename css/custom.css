@@ -1,0 +1,48 @@
+#profileCard{
+    margin-top: 15px;
+}
+
+#profileImg{
+    border-radius: 50%;
+}
+
+#profileInfo{
+    margin-top: -10px;
+}
+
+hr.styledHr{
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+#fixFont{
+    font-size: 18px;
+}
+
+.panel-heading img{
+    float: left;
+    margin-right: 10px;
+    width: 5%;
+}
+
+.colorHeading{
+    color: dodgerblue;
+}
+
+.back-to-top {
+    position: fixed;
+    bottom: 2em;
+    right: 0px;
+    text-decoration: none;
+    color: #000000;
+    background-color: rgba(235, 235, 235, 0.80);
+    font-size: 12px;
+    padding: 1em;
+    display: none;
+}
+
+.back-to-top:hover {    
+    background-color: rgba(135, 135, 135, 0.50);
+}
