@@ -6,8 +6,3 @@ My brother asked for a clean and simple template, I created this using Bootstrap
 - Bootstrap v3.3.6
 - normalize.css v3.0.2
 - Font Awesome v4.5.0
-
-### Next things to work on:
-- Mobility (phones)
-- Mobility (tablets)
-- Accessibility
